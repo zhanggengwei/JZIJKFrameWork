@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
  s.name     = 'JZIJKFrameWork'
- s.version  = '1.0.1'
+ s.version  = '1.0.3'
  s.license  = 'MIT'
  s.summary  = 'An atuo fit size tagView on iOS.'
  s.homepage = 'https://github.com/zhanggengwei/JZIJKFrameWork'
